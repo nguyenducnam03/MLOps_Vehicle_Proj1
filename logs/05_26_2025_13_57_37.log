@@ -1,0 +1,3 @@
+[ 2025-05-26 13:57:37,221 ] root - DEBUG - Logger configured successfully.
+[ 2025-05-26 13:57:37,239 ] root - INFO - unsupported operand type(s) for +: 'int' and 'str'
+[ 2025-05-26 13:57:37,239 ] root - ERROR - Error occurred in python script: [C:\Users\DELL\Desktop\MLOps_YTB\Day10_Proj1_Vehilce_Again1\demo.py] at line number [11]: unsupported operand type(s) for +: 'int' and 'str'
