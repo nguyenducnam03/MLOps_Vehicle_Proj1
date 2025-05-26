@@ -1,0 +1,13 @@
+# Folders
+notebook/data.csv
+artifact/
+logs/
+
+# pychache folders
+__pychache__/
+**/__pycache__/
+**/**/__pycache__/
+
+# env
+.env
+
