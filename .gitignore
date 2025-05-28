@@ -11,3 +11,5 @@ __pychache__/
 # env
 .env
 
+# aws key
+firstproj_accessKeys.csv
